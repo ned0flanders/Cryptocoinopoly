@@ -10,16 +10,23 @@ Cryptocoinopoly is the cryptocurrency trading game where the aim is to drive eve
 </p>
 
 ## What is needed to play
-Print out the board and cards. If you have an existing monopoly set use the same money and the houses and hotels as mining rigs and farms. If you don't have a monopoly set, you can find money to print [here](http://www.zieak.com/2008/08/19/print-your-own-monopoly-money/) and for the totems, rigs and farms just be creative.
+Download all the files in this repository. Print out the board and cards. If you have an existing monopoly set use the same money and the houses and hotels as mining rigs and farms. If you don't have a monopoly set, you can find money to print [here](http://www.zieak.com/2008/08/19/print-your-own-monopoly-money/) and for the totems, rigs and farms just be creative.
 
 ## Rules:
 The rules to Cryptocoinopoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in Cryptocoinopoly rent is now a network fee and "JAIL" is now "HODL".
+
+### Cryptos and Exchanges
 
 <p align="center"> 
 <img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/dogecoincard.png" height="500" width="315">
 <img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Exchanges/binancecard.png" height="500" width="315">
 </p>
 
+### Chance and Community Chest
+<p align="center"> 
+<img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Chance/chancecardnegREPAIR.png" height="315" width="500">
+<img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Community_Chest/comunitycardposTWEET.png" height="315" width="500">
+</p>
 Wish to share some cryptos?
 
 BTC  - 1EdZugaciEU4psLqM3uj5AoUahC84aBNmx
