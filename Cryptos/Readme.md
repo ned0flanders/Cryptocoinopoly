@@ -34,7 +34,7 @@
 
 17. [Tron](https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/troncard.png)
 
-18 [EOS](https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/eoscard.png)
+18. [EOS](https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/eoscard.png)
 
 19. [Ardor](https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/ardorcard.png)
 
