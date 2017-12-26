@@ -7,7 +7,11 @@ Finding it difficult to keep your eyes off the markets? Missing out on family ti
 
 
 Wish to share some cryptos?
+
 BTC  - 1EdZugaciEU4psLqM3uj5AoUahC84aBNmx
+
 BCH  - 1EdZugaciEU4psLqM3uj5AoUahC84aBNmx (same as BTC)
+
 LTC  - LcH7epaLTtXxmZJTDf5effHVfvtW22Qbp4
+
 DOGE - DAr3QxF1BQb2uXyPGdkv4wL7EKy9JAXMza
