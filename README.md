@@ -5,7 +5,7 @@ Finding it difficult to keep your eyes off the markets? Missing out on family ti
 
 ![Board Layout](boardV01.png)
 
-<img src="boardV01.jpg" alt="Drawing" style="width: 200px;"/>
+<img src="boardV01.png" alt="Drawing" style="width: 200px;"/>
 
 
 Wish to share some cryptos?
