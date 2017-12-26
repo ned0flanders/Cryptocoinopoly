@@ -1,5 +1,5 @@
 # Cryptocoinopoly
-The Crypto trading game.
+The crypto trading game.
 
 Finding it difficult to keep your eyes off the markets? Missing out on family time? Why not share the cryptomania with family and friends.
 
@@ -15,8 +15,10 @@ Print out the board and cards. If you have an existing monopoly set use the same
 ## Rules:
 The rules to Cryptocoinopoly are identical to the classic game of [Monopoly](https://www.hasbro.com/common/instruct/monins.pdf). However in Cryptocoinopoly rent is now a network fee and "JAIL" is now "HODL".
 
-![Cryptocurrency](Cryptos/dogecoincard.png)![Exchanges](Exchanges/binancecard.png)
-
+<p align="center"> 
+<img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Cryptos/dogecoincard.png" height="500" width="315">
+<img src="https://github.com/ned0flanders/Cryptocoinopoly/blob/master/Exchanges/binancecard.png" height="500" width="315">
+</p>
 
 Wish to share some cryptos?
 
